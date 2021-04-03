@@ -20,8 +20,10 @@ App link:
 <a href="https://drive.google.com/file/d/1tsX79Xv8KBJaa_K1w9g4wJMojBY91L5P/view?usp=drivesdk">
 MaskUp Game </a>
 <br>
-We team Invictus came up with an enjoyable way to kill Boredom while stuck at home <br>
+We team Invictus came up with an enjoyable way to kill Boredom while stuck at home. <br>
 The Challenge is about finding enough self control to create a helthy balance between relaxation and wasting time.
+<br>
+This is just a basic model we will enhance the user interface and will bring updates in it to make to more enjoyable.
 </p>
 </body>
 </html>
